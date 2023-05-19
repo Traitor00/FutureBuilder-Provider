@@ -1,6 +1,6 @@
-# bbuilder
+# Test App
 
-A new Flutter project.
+A new Flutter project to learn about provider and Future Builder.
 
 ## Getting Started
 
